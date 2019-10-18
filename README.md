@@ -12,7 +12,7 @@ Markdown 常用语法有
 4. 单行代码
 5. 多行代码
 
-这是单行代码的样式：`HTML``CSS``JavaScript`
+这是单行代码的样式：`HTML` `CSS` `JavaScript`
 
 这是多行代码的样式：
 ```javascript
